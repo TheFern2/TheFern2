@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 Open Source Projects I've collaborated/worked on:
 - [vscode-stories](https://github.com/ide-stories/vscode-stories), a snippet social vscode extension built with Svelte, TypeScript, Postgres.
 - [pylogix](https://github.com/dmroeder/pylogix), a communications driver for industrial controllers protocol EIP written in python.
+  - [pylogix-api](https://github.com/TheFern2/pylogix-api), a sample api for pylogix written in python flask.
   - [node-pylogix](https://github.com/TheFern2/node-pylogix), working on the python to nodejs port written in typescript.
 - [vscode-gutenberg](https://github.com/TheFern2/vscode-gutenberg), a vscode extension to print markdown to pdf/html written in TypeScript [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/TheFern.vscode-gutenberg.svg)](https://marketplace.visualstudio.com/items?itemName=TheFern.vscode-gutenberg)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/TheFern.vscode-gutenberg.svg)](https://marketplace.visualstudio.com/items?itemName=TheFern.vscode-gutenberg)
